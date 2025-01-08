@@ -15,6 +15,8 @@ Create a postgres database with the following credentials
     dbname = ddfinance
     dbpassword = postgres
     dbuser = postgres
+    dbport = 5432
+    dbhost = localhost
 ```
 
 
