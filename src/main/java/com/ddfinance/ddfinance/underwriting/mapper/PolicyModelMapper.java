@@ -34,10 +34,10 @@ public class PolicyModelMapper {
         policyResponse.setPolicyType(policy.getPolicyType());
         policyResponse.setStatus(policy.getStatus());
         policyResponse.setRate(policy.getRate());
-        policyResponse.setCreatedAt(policy.getCreatedAt());
-        policyResponse.setUpdatedAt(policy.getUpdatedAt());
-        policyResponse.setCreatedBy(policy.getCreatedBy());
-        policyResponse.setUpdatedBy(policy.getUpdatedBy());
+//        policyResponse.setCreatedAt(policy.getCreatedAt());
+//        policyResponse.setUpdatedAt(policy.getUpdatedAt());
+//        policyResponse.setCreatedBy(policy.getCreatedBy());
+//        policyResponse.setUpdatedBy(policy.getUpdatedBy());
 
         return policyResponse;
     }
